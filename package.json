@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "lifen-fhir.js": "^1.6.3"
+  }
+}
